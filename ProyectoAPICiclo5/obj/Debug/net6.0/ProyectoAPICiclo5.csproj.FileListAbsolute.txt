@@ -1,0 +1,198 @@
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\appsettings.json
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.exe
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.deps.json
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.runtimeconfig.json
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.pdb
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.csproj.AssemblyReference.cache
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.AssemblyInfoInputs.cache
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.AssemblyInfo.cs
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoAPICiclo5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoAPICiclo5.props
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoAPICiclo5.props
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoAPICiclo5.props
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\scopedcss\bundle\ProyectoAPICiclo5.styles.css
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.csproj.CopyComplete
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\refint\ProyectoAPICiclo5.dll
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.pdb
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.genruntimeconfig.cache
+C:\Users\Isaac\Desktop\Proyecto Servicios Web 1\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ref\ProyectoAPICiclo5.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\appsettings.Development.json
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\appsettings.json
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.exe
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.deps.json
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.runtimeconfig.json
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.pdb
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Azure.Core.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Azure.Identity.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.csproj.AssemblyReference.cache
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.AssemblyInfoInputs.cache
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.AssemblyInfo.cs
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.csproj.CoreCompileInputs.cache
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.MvcApplicationPartsAssemblyInfo.cs
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.MvcApplicationPartsAssemblyInfo.cache
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoAPICiclo5.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoAPICiclo5.props
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoAPICiclo5.props
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoAPICiclo5.props
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets.build.json
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets.development.json
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\scopedcss\bundle\ProyectoAPICiclo5.styles.css
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.csproj.CopyComplete
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\refint\ProyectoAPICiclo5.dll
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.pdb
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.genruntimeconfig.cache
+D:\Carpeta_de_Moviles\GRUPO MOVILES\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ref\ProyectoAPICiclo5.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.csproj.AssemblyReference.cache
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.AssemblyInfoInputs.cache
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.AssemblyInfo.cs
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.csproj.CoreCompileInputs.cache
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\refint\ProyectoAPICiclo5.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.pdb
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.exe
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.deps.json
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.runtimeconfig.json
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\ProyectoAPICiclo5.pdb
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Azure.Core.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Azure.Identity.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Memory.Data.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoAPICiclo5.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoAPICiclo5.props
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoAPICiclo5.props
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoAPICiclo5.props
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\scopedcss\bundle\ProyectoAPICiclo5.styles.css
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.csproj.CopyComplete
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ProyectoAPICiclo5.genruntimeconfig.cache
+D:\OneDrive\Cibertec\Ciclo V\Desarrollo de Aplicaciones Moviles I\Proyecto\3 Avance\api 2 isaas\ProyectoApiAlmacen-main\SlnProyectoAPICiclo5\ProyectoAPICiclo5\obj\Debug\net6.0\ref\ProyectoAPICiclo5.dll
